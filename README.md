@@ -1,19 +1,19 @@
-Welcome to the ImportSort wiki!
+How to use:
+move the ImportSort.py into the project root path, and run.       
+![GitHub set up](http://www.iamsup.cn/wp-content/uploads/2016/11/1.jpg)
 
-Move the ImportSort.py into the project root path, and run.
-
-Tips：      
-1.except improt files, the script don't change any code.       
-2.Only for Continuous import files, the following conditions are not allowed：
+Tips：
+1.except improt files, the script don't change any code.
+2.only for Continuous import files, the following conditions are not allowed：
 
 ###### \#import "Maggie.h"
 ###### \#import "Sup.h"
 ###### //mark by sup
 ###### \#import "Abraham.h"
 
-Feature:
-1.remove duplicate import files        
-2.for property variable sort and attribute sort.      
-3.for noncontinuous import.
+Features: 
+1.for property variable sort and attribute sort. 
+2.for noncontinuous import.
+3.remove duplicate files.
 
 
