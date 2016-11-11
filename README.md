@@ -11,8 +11,9 @@ Tips：
 ###### //mark by sup
 ###### \#import "Abraham.h"
 
-Feature:        
-1.for property variable sort and attribute sort.      
-2.for noncontinuous import.
+Feature:
+1.remove duplicate import files        
+2.for property variable sort and attribute sort.      
+3.for noncontinuous import.
 
 
